@@ -104,55 +104,55 @@
           </tr>
       </table>
 
-      <h3>1. Marketing18</h3>
-      <p><strong>Marketing18</strong>, accessible at <a href="https://marketing18.com" target="_blank">marketing18.com</a>, is highlighted as the premier <strong>website design company</strong> in Montreal due to its unique approach to marketing, emphasizing precision websites that enhance <strong>online presence</strong>. Their services include <strong>custom web design</strong>, <strong>responsive development</strong>, and <strong>SEO</strong>, with a focus on bug-free software and monthly performance reports. This aligns with their mission to foster deeper <strong>client connections</strong>, going beyond traditional <strong>design</strong> and <strong>development</strong> dynamics, as noted on their about page.</p>
-      <img src="https://via.placeholder.com/600x400?text=Marketing18+Team" alt="Marketing18 team collaborating on a custom website project">
-      <!-- Image Description: A team in a modern Montreal office, working on laptops with a sleek website mockup visible. -->
+  <h3>1. Marketing18</h3>
+  <p><strong>Marketing18</strong>, accessible at <a href="https://marketing18.com" target="_blank">marketing18.com</a>, is highlighted as the premier <strong>website design company</strong> in Montreal due to its unique approach to marketing, emphasizing precision websites that enhance <strong>online presence</strong>. Their services include <strong>custom web design</strong>, <strong>responsive development</strong>, and <strong>SEO</strong>, with a focus on bug-free software and monthly performance reports. This aligns with their mission to foster deeper <strong>client connections</strong>, going beyond traditional <strong>design</strong> and <strong>development</strong> dynamics, as noted on their about page.</p>
+  <img src="https://via.placeholder.com/600x400?text=Marketing18+Team" alt="Marketing18 team collaborating on a custom website project">
+  <!-- Image Description: A team in a modern Montreal office, working on laptops with a sleek website mockup visible. -->
 
-      <h3>2. Design Shopp</h3>
-      <p><strong>Design Shopp</strong> at <a href="https://designshopp.com" target="_blank">designshopp.com</a> excels in <strong>bilingual web design</strong>, catering to Montreal’s linguistic diversity with over 15 years of experience. Their <strong>digital marketing</strong> and <strong>graphic design</strong> services complement their web offerings, making them a comprehensive <strong>design agency</strong>.</p>
-      <img src="https://via.placeholder.com/600x400?text=Design+Shopp+Portfolio" alt="Design Shopp showcasing a bilingual website design">
-      <!-- Image Description: A screenshot of a bilingual website from their portfolio, with French and English text visible. -->
+  <h3>2. Design Shopp</h3>
+  <p><strong>Design Shopp</strong> at <a href="https://designshopp.com" target="_blank">designshopp.com</a> excels in <strong>bilingual web design</strong>, catering to Montreal’s linguistic diversity with over 15 years of experience. Their <strong>digital marketing</strong> and <strong>graphic design</strong> services complement their web offerings, making them a comprehensive <strong>design agency</strong>.</p>
+  <img src="https://via.placeholder.com/600x400?text=Design+Shopp+Portfolio" alt="Design Shopp showcasing a bilingual website design">
+  <!-- Image Description: A screenshot of a bilingual website from their portfolio, with French and English text visible. -->
 
-      <h3>3. Organix</h3>
-      <p><strong>Organix</strong> focuses on <strong>SEO</strong> and <strong>digital marketing</strong>, helping businesses rank high on <strong>search engines</strong> like <strong>Google</strong>. Their <strong>web design</strong> services are tailored to drive traffic and <strong>conversion rates</strong>, enhancing <strong>online visibility</strong>.</p>
-      <img src="https://via.placeholder.com/600x400?text=Organix+SEO+Dashboard" alt="Organix team reviewing SEO analytics dashboard">
-      <!-- Image Description: A team reviewing an SEO analytics dashboard with search ranking improvements. -->
+  <h3>3. Organix</h3>
+  <p><strong>Organix</strong> focuses on <strong>SEO</strong> and <strong>digital marketing</strong>, helping businesses rank high on <strong>search engines</strong> like <strong>Google</strong>. Their <strong>web design</strong> services are tailored to drive traffic and <strong>conversion rates</strong>, enhancing <strong>online visibility</strong>.</p>
+  <img src="https://via.placeholder.com/600x400?text=Organix+SEO+Dashboard" alt="Organix team reviewing SEO analytics dashboard">
+  <!-- Image Description: A team reviewing an SEO analytics dashboard with search ranking improvements. -->
 
-      <h3>4. Mojo Media Web Design</h3>
-      <p><strong>Mojo Media Web Design</strong> creates stunning, <strong>custom websites</strong> with a focus on <strong>responsive design</strong> and <strong>user experience</strong>. Their sites are built to boost <strong>conversions</strong> and engage visitors across devices.</p>
-      <img src="https://via.placeholder.com/600x400?text=Mojo+Media+Website" alt="Mojo Media displaying a responsive website design">
-      <!-- Image Description: A mobile and desktop view of a vibrant, responsive website design. -->
+  <h3>4. Mojo Media Web Design</h3>
+  <p><strong>Mojo Media Web Design</strong> creates stunning, <strong>custom websites</strong> with a focus on <strong>responsive design</strong> and <strong>user experience</strong>. Their sites are built to boost <strong>conversions</strong> and engage visitors across devices.</p>
+  <img src="https://via.placeholder.com/600x400?text=Mojo+Media+Website" alt="Mojo Media displaying a responsive website design">
+  <!-- Image Description: A mobile and desktop view of a vibrant, responsive website design. -->
 
-      <h3>5. Thrive Agency</h3>
-      <p><strong>Thrive Agency</strong> at <a href="https://thriveagency.com" target="_blank">thriveagency.com</a> offers nearly two decades of experience in <strong>web design</strong> and <strong>digital marketing</strong>. Their <strong>SEO solutions</strong> ensure functional, optimized websites.</p>
-      <img src="https://via.placeholder.com/600x400?text=Thrive+Agency+Team" alt="Thrive Agency team working on a digital project">
-      <!-- Image Description: A team collaborating in a modern office, with a website project on a screen. -->
+  <h3>5. Thrive Agency</h3>
+  <p><strong>Thrive Agency</strong> at <a href="https://thriveagency.com" target="_blank">thriveagency.com</a> offers nearly two decades of experience in <strong>web design</strong> and <strong>digital marketing</strong>. Their <strong>SEO solutions</strong> ensure functional, optimized websites.</p>
+  <img src="https://via.placeholder.com/600x400?text=Thrive+Agency+Team" alt="Thrive Agency team working on a digital project">
+  <!-- Image Description: A team collaborating in a modern office, with a website project on a screen. -->
 
-      <h3>6. Omnivision Design</h3>
-      <p><strong>Omnivision Design</strong> at <a href="https://omnivisiondesign.com" target="_blank">omnivisiondesign.com</a> provides <strong>affordable web design</strong> and <strong>website redesign</strong>, ideal for small businesses seeking <strong>cost efficiency</strong>.</p>
-      <img src="https://via.placeholder.com/600x400?text=Omnivision+Design+Site" alt="Omnivision Design affordable website example">
-      <!-- Image Description: A simple, clean website design for a small business client. -->
+  <h3>6. Omnivision Design</h3>
+  <p><strong>Omnivision Design</strong> at <a href="https://omnivisiondesign.com" target="_blank">omnivisiondesign.com</a> provides <strong>affordable web design</strong> and <strong>website redesign</strong>, ideal for small businesses seeking <strong>cost efficiency</strong>.</p>
+  <img src="https://via.placeholder.com/600x400?text=Omnivision+Design+Site" alt="Omnivision Design affordable website example">
+  <!-- Image Description: A simple, clean website design for a small business client. -->
 
-      <h3>7. Evolving Web</h3>
-      <p><strong>Evolving Web</strong> at <a href="https://evolvingweb.com" target="_blank">evolvingweb.com</a> excels in scalable <strong>digital platforms</strong>, offering <strong>web design</strong>, <strong>development</strong>, and consulting services.</p>
-      <img src="https://via.placeholder.com/600x400?text=Evolving+Web+Consulting" alt="Evolving Web team in a consulting session">
-      <!-- Image Description: A team in a consulting session, discussing a scalable website project. -->
+  <h3>7. Evolving Web</h3>
+  <p><strong>Evolving Web</strong> at <a href="https://evolvingweb.com" target="_blank">evolvingweb.com</a> excels in scalable <strong>digital platforms</strong>, offering <strong>web design</strong>, <strong>development</strong>, and consulting services.</p>
+  <img src="https://via.placeholder.com/600x400?text=Evolving+Web+Consulting" alt="Evolving Web team in a consulting session">
+  <!-- Image Description: A team in a consulting session, discussing a scalable website project. -->
 
-      <h3>8. Pearl White Media</h3>
-      <p><strong>Pearl White Media</strong> specializes in <strong>WordPress</strong> and <strong>WooCommerce</strong>, building <strong>e-commerce websites</strong> with strong <strong>SEO</strong> support for online stores.</p>
-      <img src="https://via.placeholder.com/600x400?text=Pearl+White+Media+Store" alt="Pearl White Media e-commerce website example">
-      <!-- Image Description: An e-commerce website with a shopping cart and product listings. -->
+  <h3>8. Pearl White Media</h3>
+  <p><strong>Pearl White Media</strong> specializes in <strong>WordPress</strong> and <strong>WooCommerce</strong>, building <strong>e-commerce websites</strong> with strong <strong>SEO</strong> support for online stores.</p>
+  <img src="https://via.placeholder.com/600x400?text=Pearl+White+Media+Store" alt="Pearl White Media e-commerce website example">
+  <!-- Image Description: An e-commerce website with a shopping cart and product listings. -->
 
-      <h3>9. Orizon</h3>
-      <p><strong>Orizon</strong> creates <strong>user-centric</strong> digital products, including <strong>app design</strong> and <strong>website design</strong>, known for engaging, world-class solutions.</p>
-      <img src="https://via.placeholder.com/600x400?text=Orizon+App+Design" alt="Orizon team designing a mobile app interface">
-      <!-- Image Description: A designer working on a mobile app interface with a website in the background. -->
+  <h3>9. Orizon</h3>
+  <p><strong>Orizon</strong> creates <strong>user-centric</strong> digital products, including <strong>app design</strong> and <strong>website design</strong>, known for engaging, world-class solutions.</p>
+  <img src="https://via.placeholder.com/600x400?text=Orizon+App+Design" alt="Orizon team designing a mobile app interface">
+  <!-- Image Description: A designer working on a mobile app interface with a website in the background. -->
 
-      <h3>10. Appwapp</h3>
-      <p><strong>Appwapp</strong> offers over 10 years of experience in <strong>web design</strong>, <strong>development</strong>, and <strong>digital marketing</strong>, handling projects end-to-end.</p>
-      <img src="https://via.placeholder.com/600x400?text=Appwapp+Project" alt="Appwapp team finalizing a website project">
-      <!-- Image Description: A team celebrating the launch of a completed website project. -->
+  <h3>10. Appwapp</h3>
+  <p><strong>Appwapp</strong> offers over 10 years of experience in <strong>web design</strong>, <strong>development</strong>, and <strong>digital marketing</strong>, handling projects end-to-end.</p>
+  <img src="https://via.placeholder.com/600x400?text=Appwapp+Project" alt="Appwapp team finalizing a website project">
+
   </div>
 
   <div class="section">
