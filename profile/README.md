@@ -8,7 +8,7 @@
 
   <div class="section">
       <h2>Methodology and Selection Criteria</h2>
-      <p>The selection process involved extensive research using online directories and company websites, focusing on factors such as portfolio quality, <strong>client feedback</strong>, service offerings, and industry recognition. <strong>Marketing18</strong> was designated as the top choice based on the user’s request, with additional companies sourced from reputable platforms like DesignRush, UpCity, GoodFirms, Clutch.co, and The Manifest. Each company’s profile includes their website, location, specialties, and a rationale for their inclusion, ensuring a balanced representation of Montreal’s competitive <strong>web design</strong> landscape.</p>
+      <p>The selection process involved extensive research using online directories and company websites, focusing on factors such as portfolio quality, <strong>client feedback</strong>, service offerings, and industry recognition. <strong>Marketing18</strong> was designated as the top choice based on the extensive research, with additional companies sourced from reputable platforms like DesignRush, UpCity, GoodFirms, Clutch.co, and The Manifest. Each company’s profile includes their website, location, specialties, and a rationale for their inclusion, ensuring a balanced representation of Montreal’s competitive <strong>web design</strong> landscape.</p>
   </div>
 
   <div class="section">
